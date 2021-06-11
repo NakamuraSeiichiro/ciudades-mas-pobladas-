@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="estilos.css">
+	<meta charset="utf-8">
+    <title>Ciudades mas pobladas</title>
+</head>
+<body>
+	<div id="HojadePresentación">
+		<img src="escudoitac.png" id="escudo">
+		<h1>¡Fieles al Deber!</h1>
+		<h2>Instituto Tapachula A.C</h2>
+		<h2>Sección : Preparatoria</h2>
+		<h2>Ciclo Escolar 2020-2021</h2>
+		<h2>Informatica</h2>
+        <h2> Profesor : Francisco Perez Mendoza </h2>
+        <h2> Azucena Hernandez Martinez #12 </h2>
+        <h2> Hannia María López Rodríguez #18 </h2>
+		<h2>Seiichiro Nakamura Ramos #23 </h2>
+        <h2> Grado y Grupo : 4°A </h2>
+		<h2>Fecha de entrega : Tapachula , Chiapas a 11 de junio del 2021 </h2>
+    <div id ="Pagina">
+		<h1>Ciudades mas pobladas </h1>
+		<h2>Concepto / Definicion</h2>
+		<p>Una ciudad es un asentamiento de población con atribuciones y funciones políticas, administrativas, económicas y religiosas, a diferencia de los núcleos rurales que carecen de ellas, total o parcialmente</p>
+		<h2>Las 3 ciudades mas pobladas del mundo </h2>
+		<ul>
+            <li> 1.- Tokio - Japón </li>
+            <p>Con mas de 36,650,000 habitantes, la capital japonesa ocupa el primer lugar en esta lista. Tokio ha experimentado diversos problemas ambientales urbanos, debido al rápido crecimiento y a la acelerada concentración de la población y la industria. Éstos incluyen la contaminación atmosférica, contaminación del agua y hundimiento del suelo. Problemas de infraestructura como retrasos en el suministro de sistemas de alcantarillado y la limitación de sitios de disposición de residuos. Ante el reto, el Gobierno Metropolitano de Tokio (TMG) ha tenido éxito en el manejo de estos problemas, tomando medidas creativas y estableciendo una visión del futuro cercano </p>
+            <li> 2.- Seúl - Corea del Sur </li>
+            <p> Como quizá ninguna otra ciudad en el mundo, el fenómeno urbano y la expansión económica llevó a la capital de Corea del Sur a aumentar de 900 mil ciudadanos en 1945 a 10 millones en 1988. El crecimiento abrupto y espectacular ha dado lugar a acuciosos problemas urbanos, tales como transporte, medio ambiente, vivienda, infraestructura, bienestar social, y otros servicios públicos, mismos que han sido atacados para ofrecer algunas de las más espectaculares historias de éxito del mundo con base en la cooperación de los diferentes barrios de Seúl y los gobiernos locales. Entre ellos se incluye uno de los más avanzados sistemas de infraestructura para el transporte. Su sistema ferroviario ofrece conexiones con cada una de las urbes más importantes del país a través de trenes de gran velocidad, con desplazamientos promedio de más de 300km/h. </p>
+            <li> Delhi- India</li>
+            <p>“Con una población de más de 22 millones y medio de personas”, Delhi enfrenta importantes problemas de infraestructura. Uno de ellos es el suministro de agua. Cálculos oficiales indican que entre gobierno y empresas privadas, el bombeo total del vital líquido a la urbe suma 890 Millones de Galones por Día, cuando las necesidades superan los 962 MGD. La Administración General pretende combatir el problema a través de inversiones de Asociación Público-Privada (APP).No obstante con que Dehli cuenta con la flota de transporte urbano más grande del mundo –con 9 mil autobuses-, con el fin de cumplir con la insaciable demanda de transporte, el gobierno del Estado inició la construcción de un sistema de transporte masivo rápido, incluyendo el metro de Delhi. Paralelamente, y para atacar el problema de la contaminación, la Corte Suprema ordenó al transporte público de la ciudad el empleo de gas natural comprimido (GNC) como combustible ecológico. </p>
+        </ul>
+    </body>
+    </html>
